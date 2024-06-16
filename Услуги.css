@@ -22,7 +22,7 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 388px;
+    min-height: 607px;
   }
 
   .u-section-1 .u-text-1 {
@@ -34,6 +34,5 @@
   .u-section-1 .u-image-1 {
     height: 288px;
     margin-top: 22px;
-    margin-bottom: 30px;
   }
 }

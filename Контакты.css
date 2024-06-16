@@ -31,6 +31,7 @@
 
 .u-section-1 .u-text-3 {
   font-weight: 700;
+  font-size: 1.125rem;
   margin: -319px 725px 60px 21px;
 }
 
@@ -48,7 +49,6 @@
   .u-section-1 .u-text-3 {
     margin-right: 546px;
     margin-left: 0;
-    font-size: 1.125rem;
   }
 }
 
@@ -94,29 +94,28 @@
 
   .u-section-1 .u-text-1 {
     width: auto;
-    margin-top: 47px;
-    margin-left: -37px;
+    margin-top: 46px;
+    margin-left: 1px;
   }
 
   .u-section-1 .u-text-2 {
     width: auto;
     margin-top: -26px;
-    margin-right: -183px;
-    margin-left: 183px;
+    margin-right: -148px;
+    margin-left: 148px;
   }
 
   .u-section-1 .u-form-1 {
     height: 335px;
     margin-top: 0;
-    margin-right: -37px;
-    margin-left: 170px;
+    margin-right: -15px;
+    margin-left: 148px;
   }
 
   .u-section-1 .u-text-3 {
     width: auto;
     font-size: 0.75rem;
-    margin-top: -306px;
-    margin-right: 37px;
-    margin-left: -37px;
+    margin-top: -305px;
+    margin-right: 0;
   }
 }
